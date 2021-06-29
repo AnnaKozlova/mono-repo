@@ -1,0 +1,7 @@
+{
+    "name": "mono-repo",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ]
+}
